@@ -28,10 +28,8 @@ Most projects combine **strong data analysis + ML modeling**, while some focus p
 
 | # | Project Title                              | Description                                      | Status      | Link |
 |---|--------------------------------------------|--------------------------------------------------|-------------|------|
-| 1 | Netflix Movies Analysis                    | EDA on Netflix movie dataset, genre & popularity analysis | Completed   | [View Notebook](https://github.com/yourusername/Hands-On-Data-Analysis-and-ML/blob/main/Netflix_Movies_Analysis.ipynb) |
+| 1 | Netflix Movies Analysis                    | EDA on Netflix movie dataset, genre & popularity analysis | Progress   | [View Notebook](https://github.com/CodebySiyam/Hands-On-Data-Analysis-and-ML/tree/main/Netflix-movie-data-analysis) |
 
-
-> **Note:** Replace the example row with your actual projects. Add more rows as you complete new projects.
 
 ---
 
@@ -39,4 +37,4 @@ Most projects combine **strong data analysis + ML modeling**, while some focus p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Hands-On-Data-Analysis-and-ML.git
+   git clone https://github.com/CodebySiyam/Hands-On-Data-Analysis-and-ML.git
