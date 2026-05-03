@@ -29,6 +29,8 @@ Most projects combine **strong data analysis + ML modeling**, while some focus p
 | # | Project Title                              | Description                                      | Status      | Link |
 |---|--------------------------------------------|--------------------------------------------------|-------------|------|
 | 1 | Netflix Movies Analysis                    | EDA on Netflix movie dataset, genre & popularity analysis | ✅ Done | [View Folder](https://github.com/CodebySiyam/Hands-On-Data-Analysis-and-ML/tree/main/Netflix-movie-data-analysis) |
+| 2 | Titanic Data Analysis                      | Data cleaning, EDA, feature engineering, and model evaluation. | 🚧 In Progress | [View Folder](https://github.com/CodebySiyam/Hands-On-Data-Analysis-and-ML/tree/main/titanic-survival-analysis) |
+
 
 
 ---
